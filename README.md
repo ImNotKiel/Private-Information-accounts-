@@ -1,5 +1,5 @@
-# Private-Information accounts
-Social Media's.
+# Private Information Accounts
+> Social Media's.
 
 Facebook: Michael John Galleto 
 
@@ -14,12 +14,12 @@ Twitch: kieldepota
 Youtube: Scyntax 
 
 
-Games.
+> Games.
 
 Crossfire: -Fakemovez.
 
 League of Legends: thegalleto12
 
-Call of Duty mobile: Kiel
+Call of Duty: Kiel
 
 Mobile Legends: Æ MJ Galleto
